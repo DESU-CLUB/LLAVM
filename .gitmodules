@@ -1,0 +1,6 @@
+[submodule "LLAVA"]
+	path = LLAVA
+	url = https://github.com/haotian-liu/LLaVA.git
+[submodule "WhisperSpeech"]
+	path = WhisperSpeech
+	url = https://github.com/collabora/WhisperSpeech.git
